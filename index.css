@@ -15,5 +15,11 @@ body{
  box-shadow: 3px 3px 2px #000000d2;
 }
 h1{
+  color: #fff;
+  text-align: center;
+  font-family: Sans-Serif;
+  
+}
+#box{
   
 }
