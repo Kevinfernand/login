@@ -32,23 +32,20 @@ h1{
  box-shadow: 3px 3px 2px #000000d2;
 }
 .email{
-  display: inline-block;
-  margin: 15px 10px 5px 10px;
+  margin: 15px 10px 10px 10px;
   background-color:#605f5f;
   width: 90%;
-  height: 20px;
+  height: 30px;
 }
 .senha{
-  display: inline-block;
-  margin: 15px 10px 5px 10px;
+  margin: 0px 10px;
   background-color:#605f5f;
   width: 90%;
-  height 20px;
+  height: 30px;
 }
 .botom{
-  display: inline-block;
   margin: 15px 10px 5px 10px;
   background-color:#605f5f;
   width: 90%;
-  height 20px;
+  height: 30px;
 }
