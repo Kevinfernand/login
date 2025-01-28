@@ -33,7 +33,19 @@ h1{
 }
 .email{
   background-color:#605f5f;
+  margin: 20px;
+  width: 90%;
+  height: 20px;
 }
 .senha{
+  margin: 20px;
   background-color:#605f5f;
+  width: 90%;
+  height 20px
+}
+.botom{
+  margin: 20px;
+  background-color:#605f5f;
+  width: 90%;
+  height 20px
 }
