@@ -34,18 +34,18 @@ h1{
 .email{
   margin: 15px 10px 10px 10px;
   background-color:#605f5f;
-  width: 90%;
   height: 30px;
+  border-radius: 5px;
 }
 .senha{
   margin: 0px 10px;
   background-color:#605f5f;
-  width: 90%;
   height: 30px;
+  border-radius: 5px;
 }
 .botom{
-  margin: 15px 10px 5px 10px;
-  background-color:#605f5f;
-  width: 90%;
+  margin: 20px auto;
+  background-color: #605f5f;
   height: 30px;
+  border-radius: 14px;
 }
