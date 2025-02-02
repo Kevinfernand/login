@@ -19,7 +19,7 @@ body{
 .email, .senha {
     width: 100%;
     margin: 10px 0;
-    background-color: #232323;
+    background-color: #2b2634;
     height: 30px;
     border-radius: 5px;
     border: none;
@@ -31,7 +31,7 @@ body{
     display: block;
     width: 100px;
     height: 30px;
-    background-color: #3ac0ff;
+    background-color: #fff;
     border-radius: 14px;
     border: none;
     cursor: pointer;
