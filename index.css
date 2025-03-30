@@ -2,38 +2,3 @@ body{
   background-color: #221e3f;
   margin: 0px;
 }
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Ocupa toda a altura da tela */
-}
-
-.formulario {
-    background-color: #100d2a;
-    padding: 20px;
-    border-radius: 10px;
-    text-align: center;
-}
-
-.email, .senha {
-    width: 100%;
-    margin: 10px 0;
-    background-color: #2b2634;
-    height: 30px;
-    border-radius: 5px;
-    border: none;
-    padding: 5px;
-    color: #fff;
-}
-
-.botom {
-    display: block;
-    width: 100px;
-    height: 30px;
-    background-color: #fff;
-    border-radius: 14px;
-    border: none;
-    cursor: pointer;
-    margin: 10px auto; /* Centraliza o botão */
-}
