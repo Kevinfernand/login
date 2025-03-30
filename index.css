@@ -1,4 +1,11 @@
 body{
-  background-color: #221e3f;
   margin: 0px;
+}
+.logo{
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin: 50px 0px 10px 10px;
+  background-color: green;
+  border-radius: 10px;
 }
